@@ -1,18 +1,18 @@
 #####  Assignment 1
 ## by Rhea Choyikandi
 
-*Roll number = 25P0051016*  
-*class = Basic Toolkit for Research*  
-*GitHub Username = rheachoy*  
+*Roll number = 25P0051016*    
+*class = Basic Toolkit for Research*    
+*GitHub Username = rheachoy*    
 
 
 
   
-##*Purpose of the Repository*
-    *Practice of demostrating Git commands, I guess ;-;*
+##*Purpose of the Repository*    
+    *Practice of demostrating Git commands, I guess ;-;*  
 
-##*Objectives*
-    *To learn how does one commit, update, create and add new files to a repository on github, using git commands*
+##*Objectives*   
+    *To learn how does one commit, update, create and add new files to a repository on github, using git commands*  
 
 ##*Commands Used and What they did* 
 
