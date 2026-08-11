@@ -1,0 +1,7 @@
+name = Rhea Choyikandi
+roll number = 25P0051016
+class = Basic Roolkit for Research
+subject = Learning Git & Github
+college name = Goa University
+building = Goa Business School (Block F)
+
