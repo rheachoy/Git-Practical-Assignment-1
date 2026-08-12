@@ -1,94 +1,92 @@
-#####  Assignment 1
+# Assignment 1
+
 ## by Rhea Choyikandi
 
-*Roll number = 25P0051016*    
-*class = Basic Toolkit for Research*    
-*GitHub Username = rheachoy*    
+* **Roll number:** 25P0051016
+* **Class:** Basic Toolkit for Research
+* **GitHub Username:** rheachoy
 
+---
 
+### Purpose of the Repository
+
+*Practice of demonstrating Git commands, I guess ;-;*
+
+---
+
+### Objectives
+
+To learn how one commits, updates, creates, and adds new files to a repository on GitHub using Git commands.
+
+---
+
+### Commands Used and What They Did
+
+1. `git --version`
+Display the Git version
 
   
-##*Purpose of the Repository*    
-    *Practice of demostrating Git commands, I guess ;-;*  
-
-##*Objectives*   
-    *To learn how does one commit, update, create and add new files to a repository on github, using git commands*  
-
-##*Commands Used and What they did* 
+2. `git config --global user.name "rheachoy"`
+Save user name as "rheachoy"
 
   
-    #*1. git --version*  
-        *Display the git version* 
+3. `git config --global user.email "rhea.choyikandi@gmail.com"`
+Save user email ID as "rhea.choyikandi@gmail.com"
 
-          
-    #*2. git config --global user.name "rheachoy"*  
-        *Save user name as "rheachoy"* 
+  
+4. `git config --list`
+Display all active Git configuration settings
 
-          
-    #*3. git config --global user.email "rhea.choyikandi@gmail.com"*  
-        *Save user emailid "rhea.choyikandi"*  
+  
+5. `mkdir "Git Practical"`
+Make directory named "Git Practical"
 
-          
-    #*4. git config --list*  
-        *_______*  
+  
+6. `cd "Git Practical"`
+Change working directory to "Git Practical"
 
-          
-    #*5. mkdir "Git Practical"*  
-        *Make directory name Git Practical*  
+  
+7. `git init`
+Initialize empty Git repository
 
-          
-    #*6. cd "Git Practical"*  
-        *_________*  
+  
+8. `git status`
+Shows the status of working directory and staging area
 
-          
-    #*7 git init*  
-        *initialize empty git repository*  
+  
+9. `code student.txt`
+Open an empty file named "student.txt" in VS Code
 
-          
-    #*8. git status*  
-        *shows acitivity status* 
+  
+10. `git add student.txt`
+Stage changes in "student.txt" to prepare for a commit
 
-          
-    #*9. code student.txt*  
-        *open an empty file names "student.txt" on VS code*  
+  
+11. `git commit -m "added student information!"`
+Commit the staged updates with the message "added student information!"
 
-          
-    #*10. git add student.txt*  
-        *After editing, add changes before a commit*  
+  
+12. `git log`
+Display commit history logs
 
-          
-    #*11. git commit -m "added student information!"*  
-        *commit the updates made titles "added student information!"*  
+  
+13. `git remote add origin <link>`
+Connect local repository to remote repository at `<link>` as "origin"
 
-            
-    #*12. git log*  
-        *display logs*  
+  
+14. `git remote -v`
+Display remote repository URLs along with fetch and push paths
 
-          
-    #*13. git remote add origin <link>*  
-        *add to repository at <link of repository>*  
+  
+15. `git branch -m main`
+Rename the current branch to "main"
 
-          
-    #*14. git remote -v*  
-        *fetch and pull?? ______*  
+  
+16. `git push -u origin main`
+Push local "main" branch to remote repository and set upstream tracking
 
-          
-    #*15. git branch -m main*  
-        *make a branch called main*   
+  
+17. `git push`
+Push staged commits to the default remote branch
 
-          
-    #*16. git push -u origin main*   
-        *push to main*    
-
-          
-    #*17. git push*  
-        *Push the last update*    
-
-          
-    
-
-
-
-
-
-
+  
